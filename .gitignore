@@ -1,0 +1,6 @@
+js/node_modules/
+js/package-lock.json
+vendor/
+composer.lock
+.DS_Store
+Makefile
