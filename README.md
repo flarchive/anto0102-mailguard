@@ -4,7 +4,16 @@ This repository is a permanent, read-only archive of released versions of `anto0
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-- Archived versions are stored as tags: `archive/vX.Y.Z`
+## Quick Download
+
+- **Latest Archived Version:** `v2.0.7`
+- **Flarum Compatibility:** `^2.0`
+- **Direct Download (.zip):** [Download v2.0.7 (.zip)](https://github.com/flarchive/anto0102-mailguard/archive/refs/tags/archive/v2.0.7.zip)
+- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/anto0102-mailguard/tags)
+
+## Archive Catalog
+
+- **Catalog Entry (JSON):** [View manifest](https://github.com/flarchive/archive-index/blob/main/packages/anto0102-mailguard.json)
 - Upstream repository: https://github.com/anto0102/MailGuard.git
 - Issues, pull requests, discussions, and wiki are disabled on this repository.
 
